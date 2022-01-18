@@ -1,4 +1,5 @@
 
+
 ### Hola, I'm Jagdish Mehra! 👋
 
 
@@ -13,6 +14,7 @@
 ## I'm a Developer!!
 
 - 🔭 I’m currently working on  [![Weadmit](https://assets-global.website-files.com/602cc681628b761f5489006c/602cc99d6f25fec20e78c5ab_logotype.svg "https://www.weadmit.com/")](https://www.weadmit.com/)
+- <a href="https://www.weadmit.com/"><img src="https://assets-global.website-files.com/602cc681628b761f5489006c/602cc99d6f25fec20e78c5ab_logotype.svg" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 - 🌱 I’m currently learning Nodejs, Expressjs
 - 🤔 I’m looking for help with Javascript, Reactjs, HTML, CSS.
 - 💬 Ask me about Any tech related questions.
@@ -32,7 +34,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://visualstudio.microsoft.com/)
+[<img  align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.w3schools.com/js/)
