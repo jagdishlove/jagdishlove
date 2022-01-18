@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/redoxjazz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Redoxjazz)
 
-![Jagdish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagdishlove&show_icons=true&theme=buefy)
+![Jagdish's GitHub stats]( https://github-readme-stats.vercel.app/api?username=jagdishlove&show_icons=true&theme=buefy )
 
 
 
