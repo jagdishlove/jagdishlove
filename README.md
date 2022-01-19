@@ -14,7 +14,6 @@
 ## I'm a Developer!!
 
 - 🔭 I’m currently working on  [![Weadmit](https://assets-global.website-files.com/602cc681628b761f5489006c/602cc99d6f25fec20e78c5ab_logotype.svg "https://www.weadmit.com/")](https://www.weadmit.com/)
-- <a href="https://www.weadmit.com/"><img src="https://assets-global.website-files.com/602cc681628b761f5489006c/602cc99d6f25fec20e78c5ab_logotype.svg" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 - 🌱 I’m currently learning Nodejs, Expressjs
 - 🤔 I’m looking for help with Javascript, Reactjs, HTML, CSS.
 - 💬 Ask me about Any tech related questions.
