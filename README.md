@@ -1,12 +1,14 @@
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<h1 align="center">Hi 👋, I'm Jagdish Mehra!</h1>
+<h3 align="center">I am a Full Stack Web Developer from Uttarakhand, India. I'm working on react.js, node.js, core javascript & Graphql.</h3>
 
 
-### Hola, I'm Jagdish Mehra! 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/redoxjazz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Redoxjazz)
 
-![Jagdish's GitHub stats]( https://github-readme-stats.vercel.app/api?username=jagdishlove&show_icons=true&theme=buefy&kill_cache=1 )
 
+ <img   align="center" src="https://github-readme-stats.vercel.app/api?username=jagdishlove&show_icons=true&theme=buefy&kill_cache=1 " />
 
 
 
@@ -46,8 +48,14 @@
 
 <br />
 <br />
+<details> 
+  <summary> ✌️ My GitHub Analytics </summary>
+<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagdishlove&show_icons=true&locale=en&layout=compact&theme=radical" alt="jagdishlove" /></p>
+<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=jagdishlove&show_icons=true&locale=en&theme=radical" alt="jagdishlove" /></p>
+<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdishlove&theme=radical" alt="jagdishlove" /></p>
+<p><img width="100%" height="350px" alt="Jagdish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jagdishlove&theme=github" /></p>
+</details>
 
----
 
 
 
