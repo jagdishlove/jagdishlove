@@ -15,8 +15,8 @@
 
 ## I'm a Developer!!
 
-- 🔭 I’m currently working on  [![Weadmit](https://assets-global.website-files.com/602cc681628b761f5489006c/602cc99d6f25fec20e78c5ab_logotype.svg "https://www.weadmit.com/")](https://www.weadmit.com/)
-- 🌱 I’m currently learning Nodejs, Expressjs
+- 🔭 I’m currently working on  [![CronJ](https://static.cronj.com/img/header_new/header_new.png "https://www.weadmit.com/")](https://www.cronj.com/)
+- 🌱 I’m currently learning Graphql, AWS
 - 🤔 I’m looking for help with Javascript, Reactjs, HTML, CSS.
 - 💬 Ask me about Any tech related questions.
 - 📫 How to reach me: [<img align="center"  alt="kaito.koa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discord.com/channels/551732621340573726/680859527528185900)
