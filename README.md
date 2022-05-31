@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hi 👋, I'm Jagdish Mehra!</h1>
-<h3 align="center">I am a Front End Web Developer from Uttarakhand, India. I'm working on react.js, node.js, core javascript & Graphql.</h3>
+<h3 align="center">I am a Sr Front End Web Developer from Uttarakhand, India. I'm working on react.js, node.js, core javascript & Graphql.</h3>
 
 
 
