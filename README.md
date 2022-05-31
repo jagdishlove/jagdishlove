@@ -29,7 +29,7 @@
 
 [<img align="left" alt="jagdish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Redoxjazz)
 [<img align="left" alt="jagdish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jagdish-singh-mehra-75a616130/)
-[<img align="left" alt="kaito.koa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kaito.koa/)
+[<img align="left" alt="kaito.koa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/little_warrior_jaggu/)
 
 <br />
 
