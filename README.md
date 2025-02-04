@@ -15,7 +15,6 @@
 
 ## I'm a Developer!!
 
-- 🔭 I’m currently working on  [![CronJ](https://static.cronj.com/img/header_new/header_new.png "https://www.weadmit.com/")](https://www.cronj.com/)
 - 🌱 I’m currently learning Graphql, AWS
 - 🤔 I’m looking for help with Javascript, Reactjs, Graphql, Express, Nodejs, HTML, CSS.
 - 💬 Ask me about Any tech related questions.
