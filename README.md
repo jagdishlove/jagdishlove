@@ -49,7 +49,7 @@
 <br />
 <details> 
   <summary> ✌️ My GitHub Analytics </summary>
-<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagdishlove&show_icons=true&locale=en&layout=compact&theme=radical" alt="jagdishlove" /></p>
+<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=jagdishlove&theme=tokyonight&show_icons=true" alt="jagdishlove" /></p>
 <p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=jagdishlove&show_icons=true&locale=en&theme=radical" alt="jagdishlove" /></p>
 <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdishlove&theme=radical" alt="jagdishlove" /></p>
 <p><img width="100%" height="350px" alt="Jagdish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jagdishlove&theme=github" /></p>
